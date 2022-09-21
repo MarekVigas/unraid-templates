@@ -14,11 +14,11 @@ You get dropped somewhere in the world in Google StreetView, and the goal is to 
   <Category>GameServers:</Category>
   <WebUI>http://[IP]:[PORT:16000]/</WebUI>
   <TemplateURL/>
-  <Icon>https://i.ibb.co/jhZGS9q/images-1.png</Icon>
+  <Icon>https://raw.githubusercontent.com/MarekVigas/unraid-templates/main/icons/earthwalker.png</Icon>
   <ExtraParams/>
   <PostArgs/>
   <CPUset/>
-  <DateInstalled>1663754190</DateInstalled>
+  <DateInstalled>1663754772</DateInstalled>
   <DonateText/>
   <DonateLink/>
   <Requires/>
